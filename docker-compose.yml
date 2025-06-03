@@ -1,0 +1,9 @@
+services:
+  nextjs:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./public:/app/public:ro
+    environment:
+      - NODE_ENV=production
