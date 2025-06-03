@@ -31,6 +31,7 @@ yarn dev
 ### 🏗️ Production Build
 
 ```bash
+yarn install
 yarn build
 yarn start
 ```
@@ -38,6 +39,7 @@ yarn start
 ### 🌐 Serve Static Files
 
 ```bash
+yarn install
 yarn build
 # Serve the /out directory using NGINX or a static server:
 npx serve out
