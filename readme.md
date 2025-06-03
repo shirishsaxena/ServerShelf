@@ -2,13 +2,9 @@
 
 A simple and responsive UI to list all your servers and the services running on them.
 
----
-
 ## 📌 Why This Exists
 
 I built this tool to manage multiple servers across various locations, each running different services. It became tedious to remember or track which URL belonged to which service. This dashboard simplifies that by providing a centralized view of all services with quick access links.
-
----
 
 ## ✨ Features
 
@@ -17,8 +13,6 @@ I built this tool to manage multiple servers across various locations, each runn
 - 📱 **Mobile-friendly** (portrait optimized)
 - 🔍 **Search** through your services
 - 📋 **Copy URL** with a single click
-
----
 
 ## 🚀 Getting Started
 
@@ -45,8 +39,6 @@ yarn build
 npx serve out
 ```
 
----
-
 ## 🐳 Run with Docker
 
 ### Build & Run with Docker
@@ -65,8 +57,6 @@ docker-compose up -d
 ```
 
 This will build and run the service using the included `docker-compose.yaml` file.
-
----
 
 ## 🛠️ Configuration
 
