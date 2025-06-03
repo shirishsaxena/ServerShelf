@@ -33,7 +33,7 @@ yarn dev
 ```bash
 yarn install
 yarn build
-yarn start
+npx serve@latest out
 ```
 
 ### 🌐 Serve Static Files
