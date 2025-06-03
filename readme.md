@@ -63,3 +63,12 @@ This will build and run the service using the included `docker-compose.yaml` fil
 The dashboard reads from a `config.js` file located in the `public/` directory (or wherever your build is served from).
 
 No rebuild is required when updating the config—just reload the browser.
+
+## ✌️ Final Note
+
+> *"It ain't much, but not honest work :)"*  
+> — but it sure keeps my URLs in one place.
+
+![firefox_vJuX9HYG62](https://github.com/user-attachments/assets/19287405-89d6-4fc8-9ce4-2ba6cba41524)
+
+
